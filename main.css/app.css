@@ -122,8 +122,8 @@ nav .list li:nth-child(1) a::after {
   width: 90%;
 }
 .main .container .img {
-  max-width: 40px;
-  max-height: 40px;
+  max-width: 400px;
+  max-height: 400px;
   z-index: -2;
 }
 .main .container .img img {
